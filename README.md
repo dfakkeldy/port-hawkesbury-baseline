@@ -6,7 +6,7 @@ On 16 October 2026 EverWind announced a data centre campus at Point Tupper, Nova
 
 **Status: a prototype, not a study.** Nothing here is a finding. Prepared with Claude (Anthropic). News reports name Anthropic as the tenant of the campus's first phase, so read this with that in mind.
 
-The question for the long-term study: what does an AI data centre do to the economy of the rural town beside it? Part A, here, is the "before" record and the comparison design. The effect itself cannot be measured for years.
+The question for the long-term study: what does an AI data centre do to the economy of the rural town beside it? This first part is the "before" record and the comparison design. The effect itself cannot be measured for years.
 
 ## What is in this folder
 
@@ -123,7 +123,7 @@ Measured against that list, this case is hard:
 
 **Guarding against a wanted result.** The author lives in the area and is in favour of the project. The usual guard is a dated, public pre-analysis plan: fix the outcomes, the comparison towns, the event date and the test before any "after" data exist; name the smallest change that would matter, and say in advance what result would count as "no effect" and what would count as "cannot tell"; report every outcome named in the plan; and list what was already looked at before the plan was dated. A weak or imprecise result can still leave real gains or losses possible. The notebook only ranks towns by how closely their population path follows Port Hawkesbury. It does not yet fit or fix any weights.
 
-**For part B (out of scope here).** The fiscal tables show which municipality receives the revenue, and the commuting table shows where people who worked in Richmond, Subd. A lived in 2021. Both would help to frame a survey sample. Neither shows which households a campus effect will reach.
+**For a later household survey (out of scope here).** The fiscal tables show which municipality receives the revenue, and the commuting table shows where people who worked in Richmond, Subd. A lived in 2021. Both would help to frame a survey sample. Neither shows which households a campus effect will reach.
 
 ## 5. Decided and open
 
